@@ -1,4 +1,4 @@
-console.log("the owls are not what they seem");
+console.log("I know kung fu");
 
 var username = document.querySelector("#username");
 
