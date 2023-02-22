@@ -1,4 +1,4 @@
-console.log("page loaded...");
+console.log("the owls are not what they seem");
 
 var username = document.querySelector("#username");
 
